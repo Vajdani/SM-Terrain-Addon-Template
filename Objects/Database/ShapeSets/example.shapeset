@@ -1,0 +1,14 @@
+{
+   "blockList" : [
+      {
+         "asg" : "$GAME_DATA/Textures/Default/default_dif.tga",
+         "dif" : "$GAME_DATA/Textures/Default/default_asg.tga",
+         "name" : "obj_plaseloadmymod",
+         "nor" : "$GAME_DATA/Textures/Default/default_nor.tga",
+         "physicsMaterial" : "Default",
+         "showInInventory" : false,
+         "tiling" : 8,
+         "uuid" : "ef2759ba-6dfc-4601-8873-39d068bafce0"
+      }
+   ]
+}

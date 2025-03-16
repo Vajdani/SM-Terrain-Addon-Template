@@ -1,0 +1,34 @@
+{
+   "allow_add_mods" : true,
+   "custom_icons" : false,
+   "dependencies" : [
+      {
+         "fileId" : 1441717025,
+         "localId" : "e7208a0d-860f-4ccb-a765-6a98b1ad6ba7"
+      },
+      {
+         "fileId" : 2424799239,
+         "localId" : "57a05c09-0ef3-4add-8771-ff956dd5d308"
+      },
+
+      {
+         "fileId" : 1331879173,
+         "localId" : "740ff0f9-9700-4ace-a980-5099bd3807f4",
+         "name" : "Terrain Assets by Lord Pain"
+      },
+      {
+         "fileId" : 1339396219,
+         "localId" : "bb031b9b-1fdc-431b-a47f-7161d8b1fc76"
+      },
+      {
+         "fileId" : 1357816385,
+         "localId" : "4345e76b-f43a-4f9a-b2ea-0f11735e183c",
+         "name" : "Terrain Assets by sKITzo"
+      }
+   ],
+   "description" : "your_addon_description_here",
+   "localId" : "your_new_addon_uuid_here",
+   "name" : "your_addon_name_here",
+   "type" : "Blocks and Parts",
+   "version" : 1
+}

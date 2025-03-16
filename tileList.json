@@ -1,0 +1,17 @@
+{
+    "addedTiles": [
+        "$SURVIVAL_DATA/Terrain/Tiles/poi/FarmbotGraveyard_256_01.tile",
+        "$SURVIVAL_DATA/Terrain/Tiles/poi/FarmbotGraveyard_256_02.tile",
+
+        "$CONTENT_e7208a0d-860f-4ccb-a765-6a98b1ad6ba7/Gold Mine.tile",
+        "$CONTENT_57a05c09-0ef3-4add-8771-ff956dd5d308/Boat Race.tile"
+    ],
+    "removedTiles": [
+        "$GAME_DATA/Terrain/Tiles/CreativeTiles/GROUND512_02.TILE",
+        "$GAME_DATA/Terrain/Tiles/CreativeTiles/GROUND512_03.TILE",
+        "$GAME_DATA/Terrain/Tiles/CreativeTiles/GROUND512_04.TILE",
+        "$GAME_DATA/Terrain/Tiles/CreativeTiles/GROUND512_05.TILE",
+
+        "$CONTENT_db6fc376-bf15-4ef0-8e8c-d621afeae424/Scraptopia City Airport.tile"
+    ]
+}
